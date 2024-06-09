@@ -28,7 +28,7 @@ This Flutter-based mobile application allows users to discover, create, and mana
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/recipe-app.git
+   git clone https://github.com/Samibltc/RecipeApp.git
    cd recipe-app
    ```
 
